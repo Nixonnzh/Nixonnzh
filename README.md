@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![alt text](https://github.com/Nixonnzh/Nixonnzh/blob/main/Blue%20and%20White%20Simple%20Designer%20LinkedIn%20Banner.png)
+![alt text](https://github.com/Nixonnzh/Nixonnzh/blob/main/Blue%20and%20White%20Simple%20Designer%20LinkedIn%20Banner%20(1).png)
 Hello, I’m Nixon. Data Engineer with expertise in data processing and analytics. With a strong foundation in data engineering, cloud technologies, and data science, I specialize in building scalable data pipelines, creating machine learning models, and providing actionable insights that drive business growth.
 
 ### 🔍 What I Do
