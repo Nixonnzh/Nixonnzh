@@ -25,7 +25,7 @@ I leverage my expertise in Python, SQL, and cloud technologies (such as Azure an
 * Developing dashboards on Tableau & PowerBI.
 
 ### 📚 Projects
-Explore my [portfolio](https://github.com/Nixonnzh/Portfolio-Guide/edit/main/README.md) where I apply my skillset for clients and real-world problems.
+Explore my [portfolio](https://github.com/Nixonnzh/Portfolio-Guide/blob/main/README.md) where I apply my skillset for clients and real-world problems.
 
 ### 🛠️ Tools
 * Languages: Python, SQL
