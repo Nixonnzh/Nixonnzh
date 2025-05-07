@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![alt text](https://github.com/Nixonnzh/Nixonnzh/blob/main/Blue%20and%20White%20Simple%20Designer%20LinkedIn%20Banner%20(1).png)
-Hello, I’m Nixon. Data Engineer with expertise in data processing and analytics. With a strong foundation in data engineering, cloud technologies, and data science, I specialize in building scalable data pipelines, creating machine learning models, and providing actionable insights that drive business growth.
+Hello, I’m Nixon! A self-starting Data Consultant with a strong foundation in ETL warehousing, cloud technologies and analytics. I am passionate about using data to solve real-world challenges and drive business transformation. With over two years of experience, I have worked on end-to-end data pipelines, predictive modeling, and advanced data analysis to enhance decision-making processes and optimize operations.
 
 ### 🔍 What I Do
 I leverage my expertise in Python, SQL, and cloud technologies (such as Azure and AWS) to develop scalable data solutions, automate workflows, and processing large datasets.
